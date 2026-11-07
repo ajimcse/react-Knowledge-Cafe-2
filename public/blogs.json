@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Top 10 ES6 Features You Must Know",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Hamza Sohail",
+    "posted_date": "Nov 3 (4 Days ago)",
+    "reading_time": 5,
+    "hashtags": ["beginners", "es6"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Getting Started with React Hooks",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Nusrat Jahan",
+    "posted_date": "Nov 1 (6 Days ago)",
+    "reading_time": 7,
+    "hashtags": ["react", "javascript", "hooks"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Understanding REST APIs from Scratch",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Tanvir Ahmed",
+    "posted_date": "Oct 28 (10 Days ago)",
+    "reading_time": 8,
+    "hashtags": ["api", "backend", "nodejs"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "A Beginner's Guide to CSS Grid",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Sadia Islam",
+    "posted_date": "Oct 24 (14 Days ago)",
+    "reading_time": 4,
+    "hashtags": ["css", "frontend", "design"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Why Every Developer Should Learn Git",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Imran Hossain",
+    "posted_date": "Oct 20 (18 Days ago)",
+    "reading_time": 6,
+    "hashtags": ["git", "github", "beginners"]
+  }
+]
