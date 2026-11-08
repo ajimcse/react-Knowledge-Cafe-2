@@ -7,11 +7,11 @@ const Blogs = () => {
      useEffect(() => {
     fetch("/blogs.json")
       .then((res) => res.json())
-      .then((data) => console.log(data));
+      .then((data) => setBolgs(data));
   }, []);
     return (
-        <div>
-            
+        <div className="w-2/3">
+            <h2>Blogs{blogs.length}</h2>
         </div>
     );
 };
