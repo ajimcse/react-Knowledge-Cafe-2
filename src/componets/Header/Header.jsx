@@ -2,7 +2,7 @@ import profile from '../../assets/profile.png'
 
 const Header = () => {
     return (
-        <div className='md:flex max-w-7xl mx-auto justify-between items-center p-4 mx-4 border-b-2'>
+        <div className='md:flex max-w-7xl mx-auto justify-between items-center p-4  border-b-2'>
             <h1 className="text-xl font-bold text-blue-600 ">
            Knowledge Cafe
             </h1>
