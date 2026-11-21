@@ -9,11 +9,12 @@ import Header from './componets/Header/Header'
 
 
 function App() {
-const [bookmarks, setBookmars] = useState([]);
+  const [bookmarks, setBookmars] = useState([]);
 
- const handleAddToBookmark = blog =>{
-  console.log('bookmark adding song')
- }
+  const handleAddToBookmark = blog => {
+    const newBookmarks = [...bookmarks, blog]
+    setBookmars(newBookmarks)
+  }
 
   return (
     <>
